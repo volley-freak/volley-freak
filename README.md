@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **hrithikgusain07@gmail.com**
 
-- 🏐 I play Volleyball as you know I'm **Volley-Freak.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left">  
@@ -61,7 +59,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.instagram.com/hritikfound/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://www.linkedin.com/in/hritik-singh-784870227/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 ## ❤ Views and Followers
